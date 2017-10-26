@@ -4,7 +4,7 @@ declared-services:
     label: conversation
     plan: free
 applications:
-- name: conversation-simple
+- name: conversation-simple-20171026
   command: npm start
   path: .
   memory: 256M
